@@ -1,0 +1,28 @@
+body{
+    margin:200px;
+    background-color:darkgreen;
+}
+.registration{
+    background-color:darkgoldenrod;
+    width: fit-content;
+    height: 250px;
+}
+.registration h2{
+    text-align: center;
+    color:khaki;
+}
+.registration{
+    padding: 5px 7px 4px;
+    border-radius: 17px;
+    width: 250px;
+    height: 250px;
+}
+.btn{
+    
+    padding-top: 20px;
+}
+.btn button{
+    background-color: rgba(248, 242, 255, 0.932);
+    border-radius: 50px;
+    text-align: center;
+}
